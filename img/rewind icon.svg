@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35.323" height="23.323" viewBox="0 0 35.323 23.323">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="35.323" height="23.323" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="rewind_icon" data-name="rewind icon" transform="translate(-561.816 -1103.25)">
+    <g id="rewind" transform="translate(561.816 1103.25)" clip-path="url(#clip-path)">
+      <path id="Pfad_22" data-name="Pfad 22" d="M0,2.2,16.492,0l-2.2,16.492Z" transform="translate(11.662 23.323) rotate(-135)" fill="#4b4b4b"/>
+      <path id="Pfad_23" data-name="Pfad 23" d="M0,2.2,16.492,0l-2.2,16.492Z" transform="translate(23.662 23.323) rotate(-135)" fill="#4b4b4b"/>
+    </g>
+  </g>
+</svg>

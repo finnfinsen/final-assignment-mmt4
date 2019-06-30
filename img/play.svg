@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65.835" height="47.153" viewBox="0 0 65.835 47.153">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="65.835" height="47.153" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="47.153" height="47.153" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="play" clip-path="url(#clip-path)">
+    <g id="Wiederholungsraster_1" data-name="Wiederholungsraster 1" clip-path="url(#clip-path-2)">
+      <g transform="translate(-806.147 -1028.581)">
+        <path id="Pfad_13" data-name="Pfad 13" d="M0,4.454,33.342,0,28.888,33.342Z" transform="translate(829.724 1028.581) rotate(45)" fill="#1d00ff"/>
+      </g>
+    </g>
+  </g>
+</svg>
